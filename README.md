@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahagorme&label=Profile%20views&color=0e75b6&style=flat" alt="tahagorme" /> </p>
 
+![status](https://dev.discordprofiles.me/badge/status/740821505348206652)
+
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=tahagorme" alt="tahagorme" /></p>
 
 - 🔭 I’m currently working on [Slashy](https://github.com/tahagorme/slashy)
