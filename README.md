@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I make discord scripts, discord bots, discord selfbots, desktop automation, youtube subbots, instagram follow bots, youtube comment bots, or anything you could think of. you can contact me on discord @uutu</p>
+<p align="left">I make discord scripts, discord bots, discord selfbots, desktop automation, youtube subbots, instagram follow bots, youtube comment bots, or anything you could think of. you can contact me on discord @uutu or on telegram @tahagorme</p>
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahagorme&label=Profile%20views&color=0e75b6&style=flat" alt="tahagorme" /> </p>
